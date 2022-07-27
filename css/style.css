@@ -30,6 +30,13 @@ header {
     /* padding: 13px 0; */
 }
 
+input {
+    font-size: 16px;
+    font-weight: 700;
+    text-align: center;
+    color: #747272;
+}
+
 input::placeholder {
     text-align: center;
     color: #939393;
